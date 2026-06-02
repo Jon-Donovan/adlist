@@ -8,3 +8,21 @@
 0.0.0.0 mc.yandex.ru
 
 0.0.0.0 a.utraff.com
+0.0.0.0 a.ussp.io
+0.0.0.0 a.nel.cloudflare.com
+0.0.0.0 ad-eu-bid.veonadx.com
+0.0.0.0 ad.adriver.ru
+0.0.0.0 ad.mail.ru
+0.0.0.0 adspector.io
+0.0.0.0 adx.com.ru
+0.0.0.0 bs.serving-sys.ru
+0.0.0.0 data.ad-score.com
+0.0.0.0 kimberlite.io
+0.0.0.0 log.bumlam.com
+0.0.0.0 otclick-adv.ru
+0.0.0.0 p-vip.al-adtech.com
+0.0.0.0 pbs.alfasns.com
+0.0.0.0 pb.adriver.ru
+0.0.0.0 ssp-rtb-ru.sape.ru
+
+
