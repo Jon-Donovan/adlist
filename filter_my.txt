@@ -58,3 +58,22 @@
 0.0.0.0 d.mradx.net
 0.0.0.0 r.mradx.net
 0.0.0.0 cs.agency2.ru
+
+0.0.0.0 dsa-eu.hybrid.ai
+0.0.0.0 fcgi4.gnezdo.ru
+0.0.0.0 fcgi5.gnezdo.ru
+0.0.0.0 fcgi7.gnezdo.ru
+0.0.0.0 vi2.adplay.ru
+0.0.0.0 vi3.adplay.ru
+0.0.0.0 vi.adplay.ru
+0.0.0.0 vast.programmatica.com
+0.0.0.0 www.tns-counter.ru
+0.0.0.0 videotarget-sync.rutarget.ru
+0.0.0.0 upravel.com
+0.0.0.0 tracker-api.vk-analytics.ru
+0.0.0.0 cdn.skcrtxr.com
+0.0.0.0 cdn.viqeo.tv
+0.0.0.0 cdn.vqserve.com
+0.0.0.0 a.giraff.io
+0.0.0.0 ads.t.proga.space
+0.0.0.0 adspector.io
