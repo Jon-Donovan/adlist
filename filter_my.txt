@@ -25,4 +25,7 @@
 0.0.0.0 pb.adriver.ru
 0.0.0.0 ssp-rtb-ru.sape.ru
 
+0.0.0.0 hb-bidder.skcrtxr.com
+0.0.0.0 googleads.g.doubleclick.net
 
+0.0.0.0 otm-r.com
