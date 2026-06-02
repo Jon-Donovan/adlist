@@ -32,3 +32,4 @@
 0.0.0.0 otm-r.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 yhb.p.otm-r.com
+0.0.0.0 mc.acint.net
