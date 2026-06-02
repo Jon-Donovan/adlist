@@ -43,3 +43,18 @@
 0.0.0.0 sync.zentotem.net
 
 0.0.0.0 ad-eu.p.otm-r.com
+
+0.0.0.0 ads.vqserve.com
+0.0.0.0 ads.t.proga.space
+0.0.0.0 ad.video-mech.ru
+0.0.0.0 adx.com.ru
+0.0.0.0 adv.widdimo.com
+0.0.0.0 ad.video-mech.ru
+0.0.0.0 balance.segmento.ru
+0.0.0.0 banners.adfox.net
+0.0.0.0 banners.adfox.ru
+0.0.0.0 cdn-advert.smi2.net
+0.0.0.0 cdn.dsp.solta.io
+0.0.0.0 d.mradx.net
+0.0.0.0 r.mradx.net
+0.0.0.0 cs.agency2.ru
