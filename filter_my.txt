@@ -41,3 +41,5 @@
 0.0.0.0 s.uuidksinc.net
 0.0.0.0 tag.digitaltarget.ru
 0.0.0.0 sync.zentotem.net
+
+0.0.0.0 ad-eu.p.otm-r.com
