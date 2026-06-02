@@ -7,4 +7,4 @@
 0.0.0.0 google-analytics.com
 0.0.0.0 mc.yandex.ru
 
-a.utraff.com
+0.0.0.0 a.utraff.com
