@@ -34,3 +34,10 @@
 0.0.0.0 yhb.p.otm-r.com
 0.0.0.0 mc.acint.net
 0.0.0.0 ns1.otm-r.com
+0.0.0.0 prod-lb-sync.upravel.com
+
+0.0.0.0 prodmp.ru
+0.0.0.0 rutarget.ru
+0.0.0.0 s.uuidksinc.net
+0.0.0.0 tag.digitaltarget.ru
+0.0.0.0 sync.zentotem.net
